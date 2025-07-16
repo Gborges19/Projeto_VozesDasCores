@@ -1,2 +1,3 @@
 # Projeto_VozesDasCores
-Projeto da matéria de Desenvolvimento Web
+Projeto de Desenvolvimento web - vozes das cores
+https://pedagogianapraca.my.canva.site/janeirobranco
