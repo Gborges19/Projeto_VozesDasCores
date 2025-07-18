@@ -43,7 +43,7 @@ Para executar este projeto na sua máquina, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/vozes-das-cores.git](https://github.com/SEU-USUARIO/vozes-das-cores.git)
+    git clone [https://github.com/Gborges19/vozes-das-cores.git)]
     ```
 
 2.  **Navegue até a pasta do projeto:**
@@ -85,4 +85,4 @@ Para executar este projeto na sua máquina, siga os passos abaixo.
 ## 👤 Autor
 
 * **Gabriela Borges Santana**
-* GitHub: `[[https://github.com/Gborges19]]`
+* GitHub: https://github.com/Gborges19
