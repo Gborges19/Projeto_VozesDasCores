@@ -2,7 +2,6 @@
 Projeto de Desenvolvimento web - vozes das cores
 https://pedagogianapraca.my.canva.site/janeirobranco
 
-
 # 🎨 Vozes das Cores
 
 Bem-vindo ao Vozes das Cores, uma plataforma web criada com o objetivo de ser um espaço seguro e acolhedor para o compartilhamento de mensagens de apoio, esperança e positividade.
@@ -43,12 +42,12 @@ Para executar este projeto na sua máquina, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Gborges19/vozes-das-cores.git)]
+    git clone [https://github.com/Gborges19/Projeto_VozesDasCores.git](https://github.com/Gborges19/Projeto_VozesDasCores.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd vozes-das-cores
+    cd Projeto_VozesDasCores
     ```
 
 3.  **Crie e ative um ambiente virtual:**
@@ -84,5 +83,5 @@ Para executar este projeto na sua máquina, siga os passos abaixo.
 
 ## 👤 Autor
 
-* **Gabriela Borges Santana**
-* GitHub: https://github.com/Gborges19
+* **[Gabriela Borges]**
+* **GitHub:** [Gborges19](https://github.com/Gborges19)
