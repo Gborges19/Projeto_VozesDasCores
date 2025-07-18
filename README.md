@@ -42,7 +42,7 @@ Para executar este projeto na sua máquina, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Gborges19/Projeto_VozesDasCores.git](https://github.com/Gborges19/Projeto_VozesDasCores.git)
+    git clone https://github.com/Gborges19/Projeto_VozesDasCores.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
